@@ -1,4 +1,4 @@
-## Bienvenidos
+## Bienvenidos a mi pagina
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
